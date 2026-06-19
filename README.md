@@ -134,6 +134,3 @@ Built while learning **Docker + Flask basics**
 ---
 
 
----
-
-If you want next step, I can upgrade your README to a **professional GitHub portfolio version with badges, screenshots, and architecture diagram** 👍
